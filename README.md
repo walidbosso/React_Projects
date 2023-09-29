@@ -1,2 +1,6 @@
-"# React_Projects" 
-"# React_Projects" 
+# React_Projects
+
+
+----------------------
+> >  <br/> &copy; *by Walid BOUSSOU*   🇲🇦 😄 <br/>  
+----------------------
