@@ -49,7 +49,7 @@ A full-fledged E-Commerce application built using React and powered by a JSON se
 
 #### How to Run:
 1. Fork & Clone the repository.
-2. Navigate to the `e-commerce-app` directory.
+2. Navigate to the `E-Commerce` directory.
 3. Install dependencies: `npm install`.
 4. Start the JSON server: `npm run json-server`.
 5. Start the React app: `npm start`.
@@ -65,7 +65,7 @@ A classic Connect-4 game implemented in React. This project showcases the use of
 
 #### How to Run:
 1. Fork & Clone the repository.
-2. Navigate to the `connect-4-game` directory.
+2. Navigate to the `Connect-4` directory.
 3. Install dependencies: `npm install`.
 4. Start the React app: `npm start`.
 
