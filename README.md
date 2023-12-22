@@ -51,8 +51,9 @@ A full-fledged E-Commerce application built using React and powered by a JSON se
 1. Fork & Clone the repository.
 2. Navigate to the `E-Commerce` directory.
 3. Install dependencies: `npm install`.
-4. Start the JSON server: `npm run json-server`.
-5. Start the React app: `npm start`.
+4. Install JSON Server `npm install -g json-server`
+5. Navigate to db/db.json. Start the JSON server: `json-server --watch db.json`.
+6. Start the React app: `npm start`.
 
 ### 2. Connect-4 Game
 
