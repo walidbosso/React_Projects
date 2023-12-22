@@ -48,7 +48,7 @@ A full-fledged E-Commerce application built using React and powered by a JSON se
 - CSS
 
 #### How to Run:
-1. Clone the repository.
+1. Fork & Clone the repository.
 2. Navigate to the `e-commerce-app` directory.
 3. Install dependencies: `npm install`.
 4. Start the JSON server: `npm run json-server`.
@@ -64,7 +64,7 @@ A classic Connect-4 game implemented in React. This project showcases the use of
 - Hooks
 
 #### How to Run:
-1. Clone the repository.
+1. Fork & Clone the repository.
 2. Navigate to the `connect-4-game` directory.
 3. Install dependencies: `npm install`.
 4. Start the React app: `npm start`.
@@ -79,7 +79,7 @@ A simple calculator built using React. This project is an excellent example of u
 - JavaScript (Calculator logic)
 
 #### How to Run:
-1. Clone the repository.
+1. Fork & Clone the repository.
 2. Navigate to the `basic-calculator` directory.
 3. Install dependencies: `npm install`.
 4. Start the React app: `npm start`.
