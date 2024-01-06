@@ -145,6 +145,7 @@ Happy coding!
 
 <div align="center">
 
+<a href="https://www.buymeacoffee.com/walidbosso"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=walidbosso&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/walidbosso/React_Projects?style=social)
 
