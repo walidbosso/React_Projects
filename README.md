@@ -160,6 +160,19 @@ Happy coding!
 </div>
 
 
+<a href = "https://github.com/walidbosso">
+  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
+</a>
+
+<a href = "https://github.com/walidbosso">
+  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
+</a>
+
+<a href = "https://github.com/walidbosso">
+  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
+</a>
+
+
 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢!
 
 <br/>
