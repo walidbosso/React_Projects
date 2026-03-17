@@ -111,7 +111,7 @@ Happy coding!
 > >  <br/> &copy; *by Walid BOUSSOU*   🇲🇦 😄 <br/>  
 ----------------------
 
-<details>
+<details open>
 
 <summary>👏 Thanks for the support </summary>
 
